@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 Hi! I'm an undergraduate student at Brown University studying computer science and visual art. 
-I'm currently working on creating games in Unity. 
